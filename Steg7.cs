@@ -1,7 +1,7 @@
 List<string> names = new List<string>();
 List<int> prices = new List<int>();
 
-Console.Write("Skriv en vara: ");
+Console.Write("Skriv en vara eller ett nummer: ");
 string input = Console.ReadLine()!;
 
 Console.Write("Pris: ");
